@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\g\lb7\Source.cpp(58,16): error C2107: illegal index, indirection not allowed
+D:\g\lb7\Source.cpp(58,27): error C2107: illegal index, indirection not allowed
+D:\g\lb7\Source.cpp(59,5): error C2143: syntax error: missing ';' before '}'

@@ -1,0 +1,2 @@
+D:\g\lb7\Debug\lb7.exe
+D:\g\lb7\Debug\lb7.pdb
